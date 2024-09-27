@@ -1,4 +1,6 @@
-"elements": [
+{
+  "name": "dv_cer_dummy_data_array",
+  "elements": [
     {
       "assetid": 1,
       "holedepth": 1,
@@ -1443,4 +1445,5 @@
         }
       ]
     }
-]
+  ]
+}
