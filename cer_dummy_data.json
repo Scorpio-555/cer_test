@@ -1,0 +1,1449 @@
+{
+  "name": "dv_cer_dummy_data_array",
+  "elements": [
+    {
+      "assetid": 1,
+      "holedepth": 1,
+      "jsonarray": [
+        {
+          "_id": 1,
+          "timestamp": 0,
+          "data": {
+            "hole_depth": 8114.14,
+            "predicted_downhole_mse": 8114.58
+          }
+        },
+        {
+          "_id": 2,
+          "timestamp": 2,
+          "data": {
+            "hole_depth": 8115.38,
+            "predicted_downhole_mse": 8117.49
+          }
+        },
+        {
+          "_id": 3,
+          "timestamp": 9,
+          "data": {
+            "hole_depth": 8116.15,
+            "predicted_downhole_mse": 8116.19
+          }
+        },
+        {
+          "_id": 4,
+          "timestamp": 10,
+          "data": {
+            "hole_depth": 8118.12,
+            "predicted_downhole_mse": 8119.44
+          }
+        },
+        {
+          "_id": 5,
+          "timestamp": 11,
+          "data": {
+            "hole_depth": 8120.91,
+            "predicted_downhole_mse": 8123.41
+          }
+        },
+        {
+          "_id": 6,
+          "timestamp": 14,
+          "data": {
+            "hole_depth": 8123.43,
+            "predicted_downhole_mse": 8123.59
+          }
+        },
+        {
+          "_id": 7,
+          "timestamp": 16,
+          "data": {
+            "hole_depth": 8124.56,
+            "predicted_downhole_mse": 8126.28
+          }
+        },
+        {
+          "_id": 8,
+          "timestamp": 21,
+          "data": {
+            "hole_depth": 8124.58,
+            "predicted_downhole_mse": 8125.52
+          }
+        },
+        {
+          "_id": 9,
+          "timestamp": 25,
+          "data": {
+            "hole_depth": 8125.35,
+            "predicted_downhole_mse": 8126.16
+          }
+        },
+        {
+          "_id": 10,
+          "timestamp": 35,
+          "data": {
+            "hole_depth": 8125.88,
+            "predicted_downhole_mse": 8127.16
+          }
+        },
+        {
+          "_id": 11,
+          "timestamp": 44,
+          "data": {
+            "hole_depth": 8127.41,
+            "predicted_downhole_mse": 8128.03
+          }
+        },
+        {
+          "_id": 12,
+          "timestamp": 48,
+          "data": {
+            "hole_depth": 8128.68,
+            "predicted_downhole_mse": 8130.15
+          }
+        },
+        {
+          "_id": 13,
+          "timestamp": 57,
+          "data": {
+            "hole_depth": 8131.02,
+            "predicted_downhole_mse": 8131.46
+          }
+        },
+        {
+          "_id": 14,
+          "timestamp": 64,
+          "data": {
+            "hole_depth": 8132.23,
+            "predicted_downhole_mse": 8134.03
+          }
+        },
+        {
+          "_id": 15,
+          "timestamp": 69,
+          "data": {
+            "hole_depth": 8134.52,
+            "predicted_downhole_mse": 8137.34
+          }
+        },
+        {
+          "_id": 16,
+          "timestamp": 75,
+          "data": {
+            "hole_depth": 8135.18,
+            "predicted_downhole_mse": 8135.53
+          }
+        },
+        {
+          "_id": 17,
+          "timestamp": 76,
+          "data": {
+            "hole_depth": 8135.47,
+            "predicted_downhole_mse": 8137.29
+          }
+        },
+        {
+          "_id": 18,
+          "timestamp": 82,
+          "data": {
+            "hole_depth": 8137.99,
+            "predicted_downhole_mse": 8138.81
+          }
+        },
+        {
+          "_id": 19,
+          "timestamp": 88,
+          "data": {
+            "hole_depth": 8140.91,
+            "predicted_downhole_mse": 8141.34
+          }
+        },
+        {
+          "_id": 20,
+          "timestamp": 89,
+          "data": {
+            "hole_depth": 8141.42,
+            "predicted_downhole_mse": 8144.14
+          }
+        },
+        {
+          "_id": 21,
+          "timestamp": 90,
+          "data": {
+            "hole_depth": 8141.45,
+            "predicted_downhole_mse": 8143.48
+          }
+        },
+        {
+          "_id": 22,
+          "timestamp": 99,
+          "data": {
+            "hole_depth": 8143.31,
+            "predicted_downhole_mse": 8144.32
+          }
+        },
+        {
+          "_id": 23,
+          "timestamp": 101,
+          "data": {
+            "hole_depth": 8144.92,
+            "predicted_downhole_mse": 8145.31
+          }
+        },
+        {
+          "_id": 24,
+          "timestamp": 110,
+          "data": {
+            "hole_depth": 8145.45,
+            "predicted_downhole_mse": 8145.87
+          }
+        },
+        {
+          "_id": 25,
+          "timestamp": 118,
+          "data": {
+            "hole_depth": 8146.97,
+            "predicted_downhole_mse": 8149.48
+          }
+        },
+        {
+          "_id": 26,
+          "timestamp": 127,
+          "data": {
+            "hole_depth": 8149.76,
+            "predicted_downhole_mse": 8151.78
+          }
+        },
+        {
+          "_id": 27,
+          "timestamp": 130,
+          "data": {
+            "hole_depth": 8152.11,
+            "predicted_downhole_mse": 8152.16
+          }
+        },
+        {
+          "_id": 28,
+          "timestamp": 135,
+          "data": {
+            "hole_depth": 8152.78,
+            "predicted_downhole_mse": 8153.67
+          }
+        },
+        {
+          "_id": 29,
+          "timestamp": 143,
+          "data": {
+            "hole_depth": 8154.44,
+            "predicted_downhole_mse": 8156.1
+          }
+        },
+        {
+          "_id": 30,
+          "timestamp": 151,
+          "data": {
+            "hole_depth": 8155.99,
+            "predicted_downhole_mse": 8156.89
+          }
+        },
+        {
+          "_id": 31,
+          "timestamp": 154,
+          "data": {
+            "hole_depth": 8157.88,
+            "predicted_downhole_mse": 8159.87
+          }
+        },
+        {
+          "_id": 32,
+          "timestamp": 155,
+          "data": {
+            "hole_depth": 8158.71,
+            "predicted_downhole_mse": 8159.4
+          }
+        },
+        {
+          "_id": 33,
+          "timestamp": 164,
+          "data": {
+            "hole_depth": 8159.89,
+            "predicted_downhole_mse": 8160.09
+          }
+        },
+        {
+          "_id": 34,
+          "timestamp": 166,
+          "data": {
+            "hole_depth": 8160.74,
+            "predicted_downhole_mse": 8161.4
+          }
+        }
+      ]
+    },
+    {
+      "assetid": 2,
+      "holedepth": 2,
+      "jsonarray": [
+        {
+          "_id": 1,
+          "timestamp": 0,
+          "data": {
+            "hole_depth": 8121.77,
+            "predicted_downhole_mse": 8122.5
+          }
+        },
+        {
+          "_id": 2,
+          "timestamp": 4,
+          "data": {
+            "hole_depth": 8121.99,
+            "predicted_downhole_mse": 8122.94
+          }
+        },
+        {
+          "_id": 3,
+          "timestamp": 13,
+          "data": {
+            "hole_depth": 8122.05,
+            "predicted_downhole_mse": 8122.45
+          }
+        },
+        {
+          "_id": 4,
+          "timestamp": 16,
+          "data": {
+            "hole_depth": 8122.91,
+            "predicted_downhole_mse": 8124.09
+          }
+        },
+        {
+          "_id": 5,
+          "timestamp": 22,
+          "data": {
+            "hole_depth": 8124.54,
+            "predicted_downhole_mse": 8127.06
+          }
+        },
+        {
+          "_id": 6,
+          "timestamp": 26,
+          "data": {
+            "hole_depth": 8125.91,
+            "predicted_downhole_mse": 8128.05
+          }
+        },
+        {
+          "_id": 7,
+          "timestamp": 33,
+          "data": {
+            "hole_depth": 8128.9,
+            "predicted_downhole_mse": 8131.44
+          }
+        },
+        {
+          "_id": 8,
+          "timestamp": 43,
+          "data": {
+            "hole_depth": 8130.34,
+            "predicted_downhole_mse": 8131.75
+          }
+        },
+        {
+          "_id": 9,
+          "timestamp": 52,
+          "data": {
+            "hole_depth": 8131.98,
+            "predicted_downhole_mse": 8134.39
+          }
+        },
+        {
+          "_id": 10,
+          "timestamp": 55,
+          "data": {
+            "hole_depth": 8133.47,
+            "predicted_downhole_mse": 8135.1
+          }
+        },
+        {
+          "_id": 11,
+          "timestamp": 59,
+          "data": {
+            "hole_depth": 8136.36,
+            "predicted_downhole_mse": 8136.77
+          }
+        },
+        {
+          "_id": 12,
+          "timestamp": 61,
+          "data": {
+            "hole_depth": 8136.87,
+            "predicted_downhole_mse": 8138.17
+          }
+        },
+        {
+          "_id": 13,
+          "timestamp": 63,
+          "data": {
+            "hole_depth": 8137.8,
+            "predicted_downhole_mse": 8138.72
+          }
+        },
+        {
+          "_id": 14,
+          "timestamp": 71,
+          "data": {
+            "hole_depth": 8138.78,
+            "predicted_downhole_mse": 8139.85
+          }
+        },
+        {
+          "_id": 15,
+          "timestamp": 72,
+          "data": {
+            "hole_depth": 8139.55,
+            "predicted_downhole_mse": 8140.36
+          }
+        },
+        {
+          "_id": 16,
+          "timestamp": 74,
+          "data": {
+            "hole_depth": 8140.17,
+            "predicted_downhole_mse": 8142.52
+          }
+        },
+        {
+          "_id": 17,
+          "timestamp": 80,
+          "data": {
+            "hole_depth": 8142.82,
+            "predicted_downhole_mse": 8144.07
+          }
+        },
+        {
+          "_id": 18,
+          "timestamp": 82,
+          "data": {
+            "hole_depth": 8144.8,
+            "predicted_downhole_mse": 8146.52
+          }
+        },
+        {
+          "_id": 19,
+          "timestamp": 92,
+          "data": {
+            "hole_depth": 8147.2,
+            "predicted_downhole_mse": 8149.99
+          }
+        },
+        {
+          "_id": 20,
+          "timestamp": 102,
+          "data": {
+            "hole_depth": 8149.54,
+            "predicted_downhole_mse": 8151.57
+          }
+        },
+        {
+          "_id": 21,
+          "timestamp": 112,
+          "data": {
+            "hole_depth": 8150.57,
+            "predicted_downhole_mse": 8151.62
+          }
+        },
+        {
+          "_id": 22,
+          "timestamp": 115,
+          "data": {
+            "hole_depth": 8150.69,
+            "predicted_downhole_mse": 8151.53
+          }
+        },
+        {
+          "_id": 23,
+          "timestamp": 116,
+          "data": {
+            "hole_depth": 8151.9,
+            "predicted_downhole_mse": 8153.56
+          }
+        },
+        {
+          "_id": 24,
+          "timestamp": 126,
+          "data": {
+            "hole_depth": 8154.1,
+            "predicted_downhole_mse": 8155.6
+          }
+        },
+        {
+          "_id": 25,
+          "timestamp": 130,
+          "data": {
+            "hole_depth": 8157,
+            "predicted_downhole_mse": 8159.16
+          }
+        },
+        {
+          "_id": 26,
+          "timestamp": 139,
+          "data": {
+            "hole_depth": 8159.54,
+            "predicted_downhole_mse": 8159.83
+          }
+        },
+        {
+          "_id": 27,
+          "timestamp": 147,
+          "data": {
+            "hole_depth": 8162.14,
+            "predicted_downhole_mse": 8163.83
+          }
+        },
+        {
+          "_id": 28,
+          "timestamp": 148,
+          "data": {
+            "hole_depth": 8162.22,
+            "predicted_downhole_mse": 8163.09
+          }
+        },
+        {
+          "_id": 29,
+          "timestamp": 155,
+          "data": {
+            "hole_depth": 8164.13,
+            "predicted_downhole_mse": 8166.03
+          }
+        },
+        {
+          "_id": 30,
+          "timestamp": 158,
+          "data": {
+            "hole_depth": 8165.64,
+            "predicted_downhole_mse": 8168.53
+          }
+        },
+        {
+          "_id": 31,
+          "timestamp": 168,
+          "data": {
+            "hole_depth": 8168.1,
+            "predicted_downhole_mse": 8168.31
+          }
+        },
+        {
+          "_id": 32,
+          "timestamp": 169,
+          "data": {
+            "hole_depth": 8168.18,
+            "predicted_downhole_mse": 8168.42
+          }
+        },
+        {
+          "_id": 33,
+          "timestamp": 176,
+          "data": {
+            "hole_depth": 8169.72,
+            "predicted_downhole_mse": 8171.8
+          }
+        },
+        {
+          "_id": 34,
+          "timestamp": 178,
+          "data": {
+            "hole_depth": 8172.71,
+            "predicted_downhole_mse": 8174.74
+          }
+        },
+        {
+          "_id": 35,
+          "timestamp": 181,
+          "data": {
+            "hole_depth": 8173.14,
+            "predicted_downhole_mse": 8175.36
+          }
+        }
+      ]
+    },
+    {
+      "assetid": 3,
+      "holedepth": 3,
+      "jsonarray": [
+        {
+          "_id": 1,
+          "timestamp": 0,
+          "data": {
+            "hole_depth": 8124.8,
+            "predicted_downhole_mse": 8127.64
+          }
+        },
+        {
+          "_id": 2,
+          "timestamp": 7,
+          "data": {
+            "hole_depth": 8126.99,
+            "predicted_downhole_mse": 8127.99
+          }
+        },
+        {
+          "_id": 3,
+          "timestamp": 16,
+          "data": {
+            "hole_depth": 8129.98,
+            "predicted_downhole_mse": 8131.8
+          }
+        },
+        {
+          "_id": 4,
+          "timestamp": 23,
+          "data": {
+            "hole_depth": 8131.89,
+            "predicted_downhole_mse": 8133.85
+          }
+        },
+        {
+          "_id": 5,
+          "timestamp": 31,
+          "data": {
+            "hole_depth": 8132.76,
+            "predicted_downhole_mse": 8134.43
+          }
+        },
+        {
+          "_id": 6,
+          "timestamp": 39,
+          "data": {
+            "hole_depth": 8133.54,
+            "predicted_downhole_mse": 8135.52
+          }
+        },
+        {
+          "_id": 7,
+          "timestamp": 47,
+          "data": {
+            "hole_depth": 8133.77,
+            "predicted_downhole_mse": 8135.96
+          }
+        },
+        {
+          "_id": 8,
+          "timestamp": 51,
+          "data": {
+            "hole_depth": 8135.9,
+            "predicted_downhole_mse": 8137.6
+          }
+        },
+        {
+          "_id": 9,
+          "timestamp": 54,
+          "data": {
+            "hole_depth": 8137.76,
+            "predicted_downhole_mse": 8140
+          }
+        },
+        {
+          "_id": 10,
+          "timestamp": 57,
+          "data": {
+            "hole_depth": 8140.51,
+            "predicted_downhole_mse": 8142.65
+          }
+        },
+        {
+          "_id": 11,
+          "timestamp": 65,
+          "data": {
+            "hole_depth": 8141.4,
+            "predicted_downhole_mse": 8143.03
+          }
+        },
+        {
+          "_id": 12,
+          "timestamp": 67,
+          "data": {
+            "hole_depth": 8142.22,
+            "predicted_downhole_mse": 8142.33
+          }
+        },
+        {
+          "_id": 13,
+          "timestamp": 76,
+          "data": {
+            "hole_depth": 8142.47,
+            "predicted_downhole_mse": 8142.52
+          }
+        },
+        {
+          "_id": 14,
+          "timestamp": 79,
+          "data": {
+            "hole_depth": 8143.99,
+            "predicted_downhole_mse": 8144.71
+          }
+        },
+        {
+          "_id": 15,
+          "timestamp": 84,
+          "data": {
+            "hole_depth": 8145.14,
+            "predicted_downhole_mse": 8147.67
+          }
+        },
+        {
+          "_id": 16,
+          "timestamp": 90,
+          "data": {
+            "hole_depth": 8146.4,
+            "predicted_downhole_mse": 8148.28
+          }
+        },
+        {
+          "_id": 17,
+          "timestamp": 98,
+          "data": {
+            "hole_depth": 8147.73,
+            "predicted_downhole_mse": 8149.91
+          }
+        },
+        {
+          "_id": 18,
+          "timestamp": 100,
+          "data": {
+            "hole_depth": 8148.94,
+            "predicted_downhole_mse": 8151.85
+          }
+        },
+        {
+          "_id": 19,
+          "timestamp": 108,
+          "data": {
+            "hole_depth": 8151.43,
+            "predicted_downhole_mse": 8152.97
+          }
+        },
+        {
+          "_id": 20,
+          "timestamp": 114,
+          "data": {
+            "hole_depth": 8151.74,
+            "predicted_downhole_mse": 8154.52
+          }
+        },
+        {
+          "_id": 21,
+          "timestamp": 121,
+          "data": {
+            "hole_depth": 8152.96,
+            "predicted_downhole_mse": 8153.33
+          }
+        },
+        {
+          "_id": 22,
+          "timestamp": 130,
+          "data": {
+            "hole_depth": 8153.09,
+            "predicted_downhole_mse": 8153.51
+          }
+        },
+        {
+          "_id": 23,
+          "timestamp": 139,
+          "data": {
+            "hole_depth": 8156.04,
+            "predicted_downhole_mse": 8157.85
+          }
+        },
+        {
+          "_id": 24,
+          "timestamp": 141,
+          "data": {
+            "hole_depth": 8157.76,
+            "predicted_downhole_mse": 8157.97
+          }
+        },
+        {
+          "_id": 25,
+          "timestamp": 142,
+          "data": {
+            "hole_depth": 8160.05,
+            "predicted_downhole_mse": 8162.72
+          }
+        },
+        {
+          "_id": 26,
+          "timestamp": 149,
+          "data": {
+            "hole_depth": 8160.61,
+            "predicted_downhole_mse": 8162.85
+          }
+        },
+        {
+          "_id": 27,
+          "timestamp": 154,
+          "data": {
+            "hole_depth": 8162.55,
+            "predicted_downhole_mse": 8163.97
+          }
+        },
+        {
+          "_id": 28,
+          "timestamp": 155,
+          "data": {
+            "hole_depth": 8164.77,
+            "predicted_downhole_mse": 8167.25
+          }
+        },
+        {
+          "_id": 29,
+          "timestamp": 160,
+          "data": {
+            "hole_depth": 8165.75,
+            "predicted_downhole_mse": 8166.48
+          }
+        },
+        {
+          "_id": 30,
+          "timestamp": 166,
+          "data": {
+            "hole_depth": 8167.32,
+            "predicted_downhole_mse": 8169.36
+          }
+        },
+        {
+          "_id": 31,
+          "timestamp": 171,
+          "data": {
+            "hole_depth": 8170.16,
+            "predicted_downhole_mse": 8173.09
+          }
+        },
+        {
+          "_id": 32,
+          "timestamp": 181,
+          "data": {
+            "hole_depth": 8172.79,
+            "predicted_downhole_mse": 8174.83
+          }
+        },
+        {
+          "_id": 33,
+          "timestamp": 190,
+          "data": {
+            "hole_depth": 8173.62,
+            "predicted_downhole_mse": 8176.36
+          }
+        },
+        {
+          "_id": 34,
+          "timestamp": 197,
+          "data": {
+            "hole_depth": 8176.21,
+            "predicted_downhole_mse": 8177.47
+          }
+        },
+        {
+          "_id": 35,
+          "timestamp": 206,
+          "data": {
+            "hole_depth": 8178.59,
+            "predicted_downhole_mse": 8179.29
+          }
+        }
+      ]
+    },
+    {
+      "assetid": 4,
+      "holedepth": 4,
+      "jsonarray": [
+        {
+          "_id": 1,
+          "timestamp": 0,
+          "data": {
+            "hole_depth": 8134.77,
+            "predicted_downhole_mse": 8135.76
+          }
+        },
+        {
+          "_id": 2,
+          "timestamp": 9,
+          "data": {
+            "hole_depth": 8134.84,
+            "predicted_downhole_mse": 8136.8
+          }
+        },
+        {
+          "_id": 3,
+          "timestamp": 11,
+          "data": {
+            "hole_depth": 8135.04,
+            "predicted_downhole_mse": 8136.35
+          }
+        },
+        {
+          "_id": 4,
+          "timestamp": 18,
+          "data": {
+            "hole_depth": 8135.62,
+            "predicted_downhole_mse": 8137.58
+          }
+        },
+        {
+          "_id": 5,
+          "timestamp": 26,
+          "data": {
+            "hole_depth": 8137.49,
+            "predicted_downhole_mse": 8138.56
+          }
+        },
+        {
+          "_id": 6,
+          "timestamp": 28,
+          "data": {
+            "hole_depth": 8137.88,
+            "predicted_downhole_mse": 8139.39
+          }
+        },
+        {
+          "_id": 7,
+          "timestamp": 38,
+          "data": {
+            "hole_depth": 8140.25,
+            "predicted_downhole_mse": 8142.08
+          }
+        },
+        {
+          "_id": 8,
+          "timestamp": 46,
+          "data": {
+            "hole_depth": 8140.98,
+            "predicted_downhole_mse": 8141.02
+          }
+        },
+        {
+          "_id": 9,
+          "timestamp": 54,
+          "data": {
+            "hole_depth": 8143.55,
+            "predicted_downhole_mse": 8144.19
+          }
+        },
+        {
+          "_id": 10,
+          "timestamp": 64,
+          "data": {
+            "hole_depth": 8146.46,
+            "predicted_downhole_mse": 8149.24
+          }
+        },
+        {
+          "_id": 11,
+          "timestamp": 71,
+          "data": {
+            "hole_depth": 8148.74,
+            "predicted_downhole_mse": 8150.91
+          }
+        },
+        {
+          "_id": 12,
+          "timestamp": 72,
+          "data": {
+            "hole_depth": 8149.19,
+            "predicted_downhole_mse": 8149.82
+          }
+        },
+        {
+          "_id": 13,
+          "timestamp": 82,
+          "data": {
+            "hole_depth": 8152.03,
+            "predicted_downhole_mse": 8152.32
+          }
+        },
+        {
+          "_id": 14,
+          "timestamp": 90,
+          "data": {
+            "hole_depth": 8153.7,
+            "predicted_downhole_mse": 8155.94
+          }
+        },
+        {
+          "_id": 15,
+          "timestamp": 99,
+          "data": {
+            "hole_depth": 8154.31,
+            "predicted_downhole_mse": 8154.66
+          }
+        },
+        {
+          "_id": 16,
+          "timestamp": 106,
+          "data": {
+            "hole_depth": 8155.21,
+            "predicted_downhole_mse": 8155.48
+          }
+        },
+        {
+          "_id": 17,
+          "timestamp": 114,
+          "data": {
+            "hole_depth": 8156.67,
+            "predicted_downhole_mse": 8159.05
+          }
+        },
+        {
+          "_id": 18,
+          "timestamp": 120,
+          "data": {
+            "hole_depth": 8157.62,
+            "predicted_downhole_mse": 8159.04
+          }
+        },
+        {
+          "_id": 19,
+          "timestamp": 127,
+          "data": {
+            "hole_depth": 8160.04,
+            "predicted_downhole_mse": 8161.62
+          }
+        },
+        {
+          "_id": 20,
+          "timestamp": 137,
+          "data": {
+            "hole_depth": 8161.86,
+            "predicted_downhole_mse": 8163.78
+          }
+        },
+        {
+          "_id": 21,
+          "timestamp": 146,
+          "data": {
+            "hole_depth": 8163.13,
+            "predicted_downhole_mse": 8165.61
+          }
+        },
+        {
+          "_id": 22,
+          "timestamp": 154,
+          "data": {
+            "hole_depth": 8165.41,
+            "predicted_downhole_mse": 8168.09
+          }
+        },
+        {
+          "_id": 23,
+          "timestamp": 163,
+          "data": {
+            "hole_depth": 8166.83,
+            "predicted_downhole_mse": 8168.73
+          }
+        },
+        {
+          "_id": 24,
+          "timestamp": 173,
+          "data": {
+            "hole_depth": 8169.45,
+            "predicted_downhole_mse": 8170
+          }
+        },
+        {
+          "_id": 25,
+          "timestamp": 181,
+          "data": {
+            "hole_depth": 8172.22,
+            "predicted_downhole_mse": 8173.48
+          }
+        },
+        {
+          "_id": 26,
+          "timestamp": 184,
+          "data": {
+            "hole_depth": 8172.26,
+            "predicted_downhole_mse": 8174.23
+          }
+        },
+        {
+          "_id": 27,
+          "timestamp": 186,
+          "data": {
+            "hole_depth": 8175.14,
+            "predicted_downhole_mse": 8177.37
+          }
+        },
+        {
+          "_id": 28,
+          "timestamp": 188,
+          "data": {
+            "hole_depth": 8177.44,
+            "predicted_downhole_mse": 8179.27
+          }
+        },
+        {
+          "_id": 29,
+          "timestamp": 196,
+          "data": {
+            "hole_depth": 8178.64,
+            "predicted_downhole_mse": 8180.54
+          }
+        },
+        {
+          "_id": 30,
+          "timestamp": 203,
+          "data": {
+            "hole_depth": 8181.39,
+            "predicted_downhole_mse": 8184.1
+          }
+        },
+        {
+          "_id": 31,
+          "timestamp": 205,
+          "data": {
+            "hole_depth": 8182.37,
+            "predicted_downhole_mse": 8183.62
+          }
+        },
+        {
+          "_id": 32,
+          "timestamp": 212,
+          "data": {
+            "hole_depth": 8183.12,
+            "predicted_downhole_mse": 8184.25
+          }
+        },
+        {
+          "_id": 33,
+          "timestamp": 221,
+          "data": {
+            "hole_depth": 8185.19,
+            "predicted_downhole_mse": 8186.86
+          }
+        },
+        {
+          "_id": 34,
+          "timestamp": 228,
+          "data": {
+            "hole_depth": 8187.22,
+            "predicted_downhole_mse": 8189.63
+          }
+        }
+      ]
+    },
+    {
+      "assetid": 5,
+      "holedepth": 5,
+      "jsonarray": [
+        {
+          "_id": 1,
+          "timestamp": 0,
+          "data": {
+            "hole_depth": 8140.04,
+            "predicted_downhole_mse": 8141.84
+          }
+        },
+        {
+          "_id": 2,
+          "timestamp": 10,
+          "data": {
+            "hole_depth": 8142.97,
+            "predicted_downhole_mse": 8143.16
+          }
+        },
+        {
+          "_id": 3,
+          "timestamp": 13,
+          "data": {
+            "hole_depth": 8143.55,
+            "predicted_downhole_mse": 8144.65
+          }
+        },
+        {
+          "_id": 4,
+          "timestamp": 23,
+          "data": {
+            "hole_depth": 8146.31,
+            "predicted_downhole_mse": 8146.53
+          }
+        },
+        {
+          "_id": 5,
+          "timestamp": 30,
+          "data": {
+            "hole_depth": 8148.37,
+            "predicted_downhole_mse": 8149.01
+          }
+        },
+        {
+          "_id": 6,
+          "timestamp": 31,
+          "data": {
+            "hole_depth": 8149.06,
+            "predicted_downhole_mse": 8149.22
+          }
+        },
+        {
+          "_id": 7,
+          "timestamp": 39,
+          "data": {
+            "hole_depth": 8151.2,
+            "predicted_downhole_mse": 8152.14
+          }
+        },
+        {
+          "_id": 8,
+          "timestamp": 42,
+          "data": {
+            "hole_depth": 8151.74,
+            "predicted_downhole_mse": 8153.92
+          }
+        },
+        {
+          "_id": 9,
+          "timestamp": 43,
+          "data": {
+            "hole_depth": 8151.85,
+            "predicted_downhole_mse": 8154.48
+          }
+        },
+        {
+          "_id": 10,
+          "timestamp": 53,
+          "data": {
+            "hole_depth": 8153.98,
+            "predicted_downhole_mse": 8155.36
+          }
+        },
+        {
+          "_id": 11,
+          "timestamp": 55,
+          "data": {
+            "hole_depth": 8155.86,
+            "predicted_downhole_mse": 8157.04
+          }
+        },
+        {
+          "_id": 12,
+          "timestamp": 65,
+          "data": {
+            "hole_depth": 8156.5,
+            "predicted_downhole_mse": 8157.71
+          }
+        },
+        {
+          "_id": 13,
+          "timestamp": 72,
+          "data": {
+            "hole_depth": 8159.47,
+            "predicted_downhole_mse": 8161.06
+          }
+        },
+        {
+          "_id": 14,
+          "timestamp": 78,
+          "data": {
+            "hole_depth": 8160.64,
+            "predicted_downhole_mse": 8160.81
+          }
+        },
+        {
+          "_id": 15,
+          "timestamp": 83,
+          "data": {
+            "hole_depth": 8162.34,
+            "predicted_downhole_mse": 8162.58
+          }
+        },
+        {
+          "_id": 16,
+          "timestamp": 92,
+          "data": {
+            "hole_depth": 8165.16,
+            "predicted_downhole_mse": 8165.87
+          }
+        },
+        {
+          "_id": 17,
+          "timestamp": 93,
+          "data": {
+            "hole_depth": 8167.08,
+            "predicted_downhole_mse": 8168.38
+          }
+        },
+        {
+          "_id": 18,
+          "timestamp": 101,
+          "data": {
+            "hole_depth": 8167.29,
+            "predicted_downhole_mse": 8168.79
+          }
+        },
+        {
+          "_id": 19,
+          "timestamp": 107,
+          "data": {
+            "hole_depth": 8167.99,
+            "predicted_downhole_mse": 8170.35
+          }
+        },
+        {
+          "_id": 20,
+          "timestamp": 115,
+          "data": {
+            "hole_depth": 8168.57,
+            "predicted_downhole_mse": 8169.13
+          }
+        },
+        {
+          "_id": 21,
+          "timestamp": 121,
+          "data": {
+            "hole_depth": 8171.43,
+            "predicted_downhole_mse": 8174.18
+          }
+        },
+        {
+          "_id": 22,
+          "timestamp": 131,
+          "data": {
+            "hole_depth": 8171.58,
+            "predicted_downhole_mse": 8172.55
+          }
+        },
+        {
+          "_id": 23,
+          "timestamp": 136,
+          "data": {
+            "hole_depth": 8172.84,
+            "predicted_downhole_mse": 8173.39
+          }
+        },
+        {
+          "_id": 24,
+          "timestamp": 140,
+          "data": {
+            "hole_depth": 8173.69,
+            "predicted_downhole_mse": 8176.28
+          }
+        },
+        {
+          "_id": 25,
+          "timestamp": 145,
+          "data": {
+            "hole_depth": 8175.31,
+            "predicted_downhole_mse": 8175.89
+          }
+        },
+        {
+          "_id": 26,
+          "timestamp": 146,
+          "data": {
+            "hole_depth": 8177.12,
+            "predicted_downhole_mse": 8180.07
+          }
+        },
+        {
+          "_id": 27,
+          "timestamp": 147,
+          "data": {
+            "hole_depth": 8178.81,
+            "predicted_downhole_mse": 8179.88
+          }
+        },
+        {
+          "_id": 28,
+          "timestamp": 151,
+          "data": {
+            "hole_depth": 8179.56,
+            "predicted_downhole_mse": 8181.81
+          }
+        },
+        {
+          "_id": 29,
+          "timestamp": 158,
+          "data": {
+            "hole_depth": 8181.58,
+            "predicted_downhole_mse": 8182.17
+          }
+        },
+        {
+          "_id": 30,
+          "timestamp": 161,
+          "data": {
+            "hole_depth": 8181.99,
+            "predicted_downhole_mse": 8184.5
+          }
+        },
+        {
+          "_id": 31,
+          "timestamp": 170,
+          "data": {
+            "hole_depth": 8184.4,
+            "predicted_downhole_mse": 8187.28
+          }
+        },
+        {
+          "_id": 32,
+          "timestamp": 171,
+          "data": {
+            "hole_depth": 8185.48,
+            "predicted_downhole_mse": 8185.76
+          }
+        },
+        {
+          "_id": 33,
+          "timestamp": 173,
+          "data": {
+            "hole_depth": 8187.93,
+            "predicted_downhole_mse": 8189.2
+          }
+        },
+        {
+          "_id": 34,
+          "timestamp": 182,
+          "data": {
+            "hole_depth": 8190.23,
+            "predicted_downhole_mse": 8191.29
+          }
+        }
+      ]
+    },
+    {
+      "assetid": 6,
+      "holedepth": 6,
+      "jsonarray": [
+        {
+          "_id": 1,
+          "timestamp": 0,
+          "data": {
+            "hole_depth": 8150.67,
+            "predicted_downhole_mse": 8151.21
+          }
+        },
+        {
+          "_id": 2,
+          "timestamp": 10,
+          "data": {
+            "hole_depth": 8153.58,
+            "predicted_downhole_mse": 8153.77
+          }
+        },
+        {
+          "_id": 3,
+          "timestamp": 13,
+          "data": {
+            "hole_depth": 8154.92,
+            "predicted_downhole_mse": 8156.87
+          }
+        },
+        {
+          "_id": 4,
+          "timestamp": 14,
+          "data": {
+            "hole_depth": 8155.98,
+            "predicted_downhole_mse": 8158.88
+          }
+        }
+      ]
+    }
+  ]
+}
